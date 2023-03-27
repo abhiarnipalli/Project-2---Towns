@@ -8,12 +8,14 @@
 #include <queue>
 using namespace std;
 
-//CONSTRUCTOR to create a graph with n vertices
+//Constructor to create a graph with n vertices
 MyGraph::MyGraph(int n) {
     this->n = n;
     adjList.resize(n + 1); // Resize to n+1 to include vertex labeled n
 }
-//CONSTRUCTOR to construct a new graph that is a copy of g
+
+
+//Constructor to construct a new graph that is a copy of g
 MyGraph::MyGraph(const MyGraph& g) {
     this->n = g.n;
     this->adjList.resize(g.adjList.size());
