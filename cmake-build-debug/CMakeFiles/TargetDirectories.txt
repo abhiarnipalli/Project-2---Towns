@@ -1,3 +1,3 @@
-/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns/cmake-build-debug/CMakeFiles/Program2.dir
+/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos/cmake-build-debug/CMakeFiles/Program2.dir

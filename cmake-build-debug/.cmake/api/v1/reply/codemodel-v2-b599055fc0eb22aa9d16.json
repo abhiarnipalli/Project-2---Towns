@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Program2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Program2-Debug-57b5f6c2790079fb81ae.json",
+					"jsonFile" : "target-Program2-Debug-fa464ba92a4d67a1be67.json",
 					"name" : "Program2",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns/cmake-build-debug",
-		"source" : "/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns"
+		"build" : "/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos/cmake-build-debug",
+		"source" : "/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos"
 	},
 	"version" : 
 	{

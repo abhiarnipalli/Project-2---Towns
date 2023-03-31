@@ -1,4 +1,4 @@
-# Install script for directory: /Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns
+# Install script for directory: /Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Project-2---Towns/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/AbhilashArnipalli/Desktop/CS 3353/Program2/Algos/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

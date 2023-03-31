@@ -3,4 +3,4 @@ project(Program2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Program2 main.cpp MyGraph.cpp MyGraph.h)
+add_executable(Program2 MyGraph.cpp MyGraph.h prog2test.cpp)
